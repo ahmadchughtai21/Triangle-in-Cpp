@@ -13,5 +13,6 @@ int main() {
 	system("color CB");
     
     return 0;
+	
 }
 
